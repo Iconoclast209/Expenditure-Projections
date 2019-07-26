@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29001.49
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Expenditure Projector", "Expenditure Projector.csproj", "{A0F5A6BE-3B14-4C1B-8068-04CF5D5B05AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0F5A6BE-3B14-4C1B-8068-04CF5D5B05AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0F5A6BE-3B14-4C1B-8068-04CF5D5B05AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0F5A6BE-3B14-4C1B-8068-04CF5D5B05AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0F5A6BE-3B14-4C1B-8068-04CF5D5B05AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4841CB03-4260-4861-B340-BEB8712FAAA6}
+	EndGlobalSection
+EndGlobal
